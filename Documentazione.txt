@@ -1,0 +1,24 @@
+Newsletter.py.v.0,02
+
+1)Installazione: 
+newsletter.py è stand alone cioè non necessita di installazione, basta copiare il file e le cartelle contenute nel file .zip per funzionare.
+2) prima di utilizzare il programma è comunque necessario installare l'interprete python versione 2.7.xx non la versione 3.x.x
+
+3) installare nell'ordine le librerie esterne. Ez-setup.py
+mailem da scompattare e installare per installare mailem aprire una shell con diritti di amministratore posizionarsi nella cartella usando il comando cd \mailem e una volta posizionati scrivere  "c:\python27\python.exe setup.py install "
+questo installerà le librerie mailem quindi lanciare il file eseguibile py-yaml meglio se con i diritti di amministratore.
+
+4) copiare almeno una lista di mail nel formato csv a 2 colonne "nome destinatario;email" il delimitatore è il ; (punto e virgola).
+
+5) personalizzare i template come modificare i dati e i numeri di telefono
+
+6) inserire una foto jpg, o gif o png nella cartella "messaggio_html"
+
+7)lanciare il programma newsletter usando "c:\python27\python.exe newsletter.py
+
+8) seguire le richieste del programma.
+
+Supporto :cservice@simail.it
+
+sviluppatore:Gilberto Bertarelli
+
